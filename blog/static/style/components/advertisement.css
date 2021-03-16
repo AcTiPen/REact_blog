@@ -1,0 +1,8 @@
+.ad-div{
+    margin-top: .3rem;
+}
+.ad-div div{
+    border-radius: .6rem;
+    margin-bottom: .3rem;
+    overflow: hidden;
+}

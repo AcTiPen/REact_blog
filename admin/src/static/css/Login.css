@@ -1,0 +1,9 @@
+.login-div{
+    margin: 150px auto;
+    width: 400px;
+}
+body {
+    background: linear-gradient(45deg, #9f55a1, #b34747);
+    /* 用来固定背景不会随着高度移动 */
+    background-attachment: fixed
+}

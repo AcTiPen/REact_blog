@@ -1,0 +1,30 @@
+.header{
+    background-color: #fff;
+
+    padding: 0.6rem;
+    overflow: hidden;
+    height: 3.6rem;
+    border-bottom:1px solid #ccc;
+}
+.header-logo{
+    color:#8500ff;
+    font-size: 1.8rem;
+    text-align: left;
+
+}
+.header-txt{
+    font-size: 0.9rem;
+    color: #999;
+    display: inline-block;
+    padding-left: 0.5rem;
+}
+.ant-menu{
+    line-height: 2.8rem;
+
+}
+.ant-menu-item{
+    font-size:1rem !important;
+    padding-left:1rem;
+    padding-right:1rem;
+
+}
